@@ -1,4 +1,4 @@
-# Critpo-Exchange
+# Dex-Ops
 
 Critpo-Exchange develops and maintains the Exchange platform and its supporting engineering resources.
 
